@@ -1,0 +1,12 @@
+C:\Users\saanl\source\repos\ClasificacionPeliculas\ClasificacionPeliculasModel\bin\Debug\net7.0\ClasificacionPeliculasModel.deps.json
+C:\Users\saanl\source\repos\ClasificacionPeliculas\ClasificacionPeliculasModel\bin\Debug\net7.0\ClasificacionPeliculasModel.dll
+C:\Users\saanl\source\repos\ClasificacionPeliculas\ClasificacionPeliculasModel\bin\Debug\net7.0\ClasificacionPeliculasModel.pdb
+C:\Users\saanl\source\repos\ClasificacionPeliculas\ClasificacionPeliculasModel\obj\Debug\net7.0\ClasificacionPeliculasModel.csproj.AssemblyReference.cache
+C:\Users\saanl\source\repos\ClasificacionPeliculas\ClasificacionPeliculasModel\obj\Debug\net7.0\ClasificacionPeliculasModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saanl\source\repos\ClasificacionPeliculas\ClasificacionPeliculasModel\obj\Debug\net7.0\ClasificacionPeliculasModel.AssemblyInfoInputs.cache
+C:\Users\saanl\source\repos\ClasificacionPeliculas\ClasificacionPeliculasModel\obj\Debug\net7.0\ClasificacionPeliculasModel.AssemblyInfo.cs
+C:\Users\saanl\source\repos\ClasificacionPeliculas\ClasificacionPeliculasModel\obj\Debug\net7.0\ClasificacionPeliculasModel.csproj.CoreCompileInputs.cache
+C:\Users\saanl\source\repos\ClasificacionPeliculas\ClasificacionPeliculasModel\obj\Debug\net7.0\ClasificacionPeliculasModel.dll
+C:\Users\saanl\source\repos\ClasificacionPeliculas\ClasificacionPeliculasModel\obj\Debug\net7.0\refint\ClasificacionPeliculasModel.dll
+C:\Users\saanl\source\repos\ClasificacionPeliculas\ClasificacionPeliculasModel\obj\Debug\net7.0\ClasificacionPeliculasModel.pdb
+C:\Users\saanl\source\repos\ClasificacionPeliculas\ClasificacionPeliculasModel\obj\Debug\net7.0\ref\ClasificacionPeliculasModel.dll
